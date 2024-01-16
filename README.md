@@ -15,6 +15,6 @@ This repository is a collection of meticulously crafted solutions to algorithmic
 - 🗣️ **Open Discussions:** Engage in discussions, share tips, and collaborate with the community in our Issues section.
 
 **License:**
-This repository is open-source and available under the [GNU](LICENSE.md).
+This repository is open-source and available under the [GPL3.0](LICENSE.md).
 
 Happy coding, and may your algorithms be as sharp as a sherpa's instincts! ⛰️✨
