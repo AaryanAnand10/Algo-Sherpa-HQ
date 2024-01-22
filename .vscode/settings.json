@@ -1,5 +1,6 @@
 {
     "files.associations": {
         "01 Hello World.C": "cpp"
-    }
+    },
+    "java.debug.settings.onBuildFailureProceed": true
 }
