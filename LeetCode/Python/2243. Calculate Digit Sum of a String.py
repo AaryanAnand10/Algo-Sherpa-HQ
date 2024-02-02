@@ -10,3 +10,4 @@ class Solution:
                     temp.append(int(digit))
             s=temp
         return "".join(map(str,s))
+print("code successful")
