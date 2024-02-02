@@ -14,3 +14,4 @@ class Solution(object):
                 pal_check=pal_check*10+temp
                 num//=10
             return pal_check==x
+print("beats 100%")
