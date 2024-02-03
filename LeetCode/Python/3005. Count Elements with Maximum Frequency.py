@@ -2,6 +2,7 @@ class Solution:
     def maxFrequencyElements(self, nums: List[int]) -> int:
         count ={}
         max=0
+        #checking values in nums
         for i in nums:
             if max < nums.count(i):
                 max=nums.count(i)
