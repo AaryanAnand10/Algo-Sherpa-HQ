@@ -1,0 +1,13 @@
+class Solution {
+public:
+    bool isPalindrome(int x) {
+    long temp,temp1=0;
+     long a=x;
+        while(a!=0){
+        temp=a%10;
+        a=a/10;
+        temp1=temp1*10+temp;
+         }
+    return(x==temp1&&x>=0);
+    }
+};
